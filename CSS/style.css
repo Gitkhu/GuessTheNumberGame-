@@ -1,0 +1,37 @@
+body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Mulish', sans-serif;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 1rem;
+  color: red;
+  color: #7A4069;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.number {
+  border-radius: 10px;
+  background-color:#B2A4FF;
+  color:#ffff;
+  font-size: 3rem;
+  margin: 15px auto 0 auto;
+  padding: 10px;
+  width: 100px;
+}
+#main-content{
+  margin-top: 5rem;
+}
+.number-container{
+  background-color: #ffff;
+  border-radius: 20px;
+  margin: 0 auto 0 auto;
+  padding: 2rem;
+  width: 30em;
+}
